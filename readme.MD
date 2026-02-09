@@ -69,12 +69,12 @@ $$Efficiency Index = \frac{\text{Revenue Share \%}}{\text{Volume Share \%}}$$
 ```mermaid
 quadrantChart
     title Unified Strategy Portfolio: Brand Positioning
-    x-axis "Low Transaction Volume" --> "High Transaction Volume"
-    y-axis "Low Revenue Contribution" --> "High Revenue Contribution"
-    quadrant-1 "STAR (High Value & Efficient)"
-    quadrant-2 "EFFICIENCY PLAY (High Revenue/Low Vol)"
-    quadrant-3 "LONG TAIL (Opportunity)"
-    quadrant-4 "CASH COW (Traffic Drivers)"
+    x-axis "Low Volume" --> "High Volume"
+    y-axis "Low Revenue" --> "High Revenue"
+    quadrant-1 "STARS"
+    quadrant-2 "EFFICIENCY"
+    quadrant-3 "LONG TAIL"
+    quadrant-4 "CASH COWS"
     "Samsung": [0.85, 0.90]
     "Apple": [0.35, 0.95]
     "Xiaomi": [0.90, 0.30]
