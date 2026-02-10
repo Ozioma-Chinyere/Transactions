@@ -132,7 +132,9 @@ The core of this analysis is the Unified Strategy Portfolio, which uses the foll
     *	🌱 **LONG TAIL:** Optimization and experimentation opportunities
 
 ### 🧮 How it is Calculated: The Efficiency Index
-To move beyond simple volume counts, I developed a custom **Efficiency Index** ($\text{EI}$). This metric identifies which segments are "pulling their weight" by comparing their financial impact to their operational footprint.$$Efficiency Index = \frac{\text{Revenue Share \%}}{\text{Volume Share \%}}$$
+To move beyond simple volume counts, I developed a custom **Efficiency Index** ($\text{EI}$). This metric identifies which segments are "pulling their weight" by comparing their financial impact to their operational footprint.
+
+$$Efficiency Index = \frac{\text{Revenue Share \%}}{\text{Volume Share \%}}$$
 *   Logic: If a brand represents **10%** of all transactions (Volume) but generates **20%** of total revenue, its Efficiency Index is **2.0**.
 *   Interpretation: 
     *   $EI > 1.0$: The segment is **High-Yield**. It generates more revenue per "click" than the average product.
@@ -167,7 +169,7 @@ Indexing: optimized for temporal and categorical queries.
 
 ---
 ## 💡 Strategic Results: 
-The technical outputs of this stack (specifically the Unified Strategy Portfolio) are used to drive the business quadrant analysis and executive recommendations. To view the final Strategic Quadrant visualization and business conclusions, Return to the Primary Project Overview. ➡️ [Retail Sales / E‑Commerce Strategic Analysis (PostgreSQL)](./REAL_README.md)
+The technical outputs of this stack (specifically the Unified Strategy Portfolio) are used to drive the business quadrant analysis and executive recommendations. To view the final Strategic Quadrant visualization and business conclusions, Return to the Primary Project Overview. ➡️ [Retail Sales / E‑Commerce Strategic Analysis (PostgreSQL)](./readme.MD)
 
 ---
 ## 🏁 Technical Reflection
